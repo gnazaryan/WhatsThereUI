@@ -1,2 +1,0 @@
-# WhatsThereUI
-Created with CodeSandbox
